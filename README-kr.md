@@ -82,7 +82,7 @@
 1. **레포지토리 클론:**
 
     ```bash
-    git clone https://github.com/yourusername/fpga-reaction-speed-test-game.git
+    git clone https://github.com/spring0l/fpga-reaction-speed-test-game.git
     ```
 
 2. **Vivado에서 열기:**
