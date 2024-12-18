@@ -82,7 +82,7 @@ The system is designed using a modular approach, dividing the project into disti
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/fpga-reaction-speed-test-game.git
+    git clone https://github.com/spring0l/fpga-reaction-speed-test-game.git
     ```
 
 2. **Open in Vivado:**
